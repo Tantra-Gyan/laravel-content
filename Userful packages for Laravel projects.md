@@ -1,0 +1,5 @@
+
+1. [Automatically Send Tweets through Laravel Notifications](https://laravel-news.com/send-tweets-laravel-notifications)
+2. [Add Laravel Unit Tests Directly From Chrome](https://laravel-news.com/add-laravel-unit-tests-directly-chrome)
+3. [Run PHPUnit Tests From Sublime Text](https://laravel-news.com/sublime-phpunit)
+
