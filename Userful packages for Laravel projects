@@ -13,3 +13,58 @@ https://laravel-news.com/add-laravel-unit-tests-directly-chrome
 3. Run PHPUnit Tests From Sublime Text : 
 https://laravel-news.com/sublime-phpunit
 
+
+|--------------------------------------------
+| Tuesday 14 January 2017
+|--------------------------------------------
+
+4. Build your own Slack Bot with this PHP library:
+https://laravel-news.com/slack-bot
+
+5. Laravel Missing Page Redirector Package:
+https://laravel-news.com/missing-pages-redirector
+
+6. Laravel Charting Package: 
+Creating charts is often a pain because of how you have to convert your data into what the charting library supports and each library is different. 
+To help make this easier Erik Campobadal created a new Laravel chart package to create interactive charts.
+https://laravel-news.com/laravel-charts
+
+7. Laravel Passport : Easily setup your own OAuth2 server: Creating your own OAuth server can be difficult and Laravel 5.3 comes with a free optional package called Passport that is a full OAuth2 server that is ready to go in minutes.
+https://laravel.com/docs/5.3/passport
+
+8. Laravel Scout : Laravel Scout provides a simple, driver based solution for adding full-text search to your Eloquent models. 
+https://laravel.com/docs/5.3/scout
+
+9. Laravel Analytics v2 : For showing Google Analytics
+https://laravel-news.com/laravel-analytics-v2
+
+10. Laravel Angular Admin Starter Kit : 
+https://laravel-news.com/laravel-angular-admin-starter-kit
+
+11. Blogify – Add a blog to an existing Laravel App : Blogify is a Laravel package that enables you to quickly and easily add a blog to your Laravel app.
+https://laravel-news.com/blogify-add-blog-existing-laravel-app
+http://www.blogify.io/
+https://github.com/Blogify/Blogify
+
+12. Debug Your App with the Laravel Debugbar :
+https://laravel-news.com/laravel-debugbar
+
+13. Query Tracer Package : 
+https://github.com/fitztrev/query-tracer
+https://laravel-news.com/query-tracer-package
+
+14. Server Monitoring Command for Laravel :
+Server Monitoring is a package that will periodically monitor the health of your server and website. 
+It provides healthy/alarm status notifications for Disk Usage, an HTTP Ping function to monitor the health of external services, and a validation/expiration monitor for SSL Certificates.
+https://laravel-news.com/server-monitoring-command-laravel
+https://github.com/ericmakesstuff/laravel-server-monitor
+
+15. Mail Preview Laravel Driver : 
+Once installed and activated instead of sending the email it generates the rendered HTML and saves it to the disk. This way you can open it and inspect it through your web browser.
+https://laravel-news.com/mail-preview-laravel-driver
+
+16. WordPress and Laravel:
+https://laravel-news.com/category/laravel-packages?page=4
+https://laravel-news.com/wordpress-and-laravel
+
+17. Speed up your app with Response Caching:
