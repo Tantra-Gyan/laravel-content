@@ -29,10 +29,12 @@ Creating charts is often a pain because of how you have to convert your data int
 To help make this easier Erik Campobadal created a new Laravel chart package to create interactive charts.
 https://laravel-news.com/laravel-charts
 
-7. Laravel Passport : Easily setup your own OAuth2 server: Creating your own OAuth server can be difficult and Laravel 5.3 comes with a free optional package called Passport that is a full OAuth2 server that is ready to go in minutes.
+7. Laravel Passport : Easily setup your own OAuth2 server: 
+Creating your own OAuth server can be difficult and Laravel 5.3 comes with a free optional package called Passport that is a full OAuth2 server that is ready to go in minutes.
 https://laravel.com/docs/5.3/passport
 
-8. Laravel Scout : Laravel Scout provides a simple, driver based solution for adding full-text search to your Eloquent models. 
+8. Laravel Scout : 
+Laravel Scout provides a simple, driver based solution for adding full-text search to your Eloquent models. 
 https://laravel.com/docs/5.3/scout
 
 9. Laravel Analytics v2 : For showing Google Analytics
@@ -41,7 +43,8 @@ https://laravel-news.com/laravel-analytics-v2
 10. Laravel Angular Admin Starter Kit : 
 https://laravel-news.com/laravel-angular-admin-starter-kit
 
-11. Blogify – Add a blog to an existing Laravel App : Blogify is a Laravel package that enables you to quickly and easily add a blog to your Laravel app.
+11. Blogify – Add a blog to an existing Laravel App : 
+Blogify is a Laravel package that enables you to quickly and easily add a blog to your Laravel app.
 https://laravel-news.com/blogify-add-blog-existing-laravel-app
 http://www.blogify.io/
 https://github.com/Blogify/Blogify
@@ -67,4 +70,8 @@ https://laravel-news.com/mail-preview-laravel-driver
 https://laravel-news.com/category/laravel-packages?page=4
 https://laravel-news.com/wordpress-and-laravel
 
-17. Speed up your app with Response Caching:
+17. Easily test a mailable:
+This will send the given mailable to the given mail-address. The to-, cc- and bcc-address that may be set in the given mailable will be cleared. The mail will only be sent to the mail-address given in the artisan command.
+https://github.com/spatie/laravel-mailable-test/?utm_source=learninglaravel.net
+
+
