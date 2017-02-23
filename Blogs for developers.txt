@@ -9,3 +9,18 @@ https://laravel-news.com/laravel-dusk-is-coming
 
 2. Improvements to the Laravel unique and exists validation rules :
 https://laravel-news.com/unique-and-exists-validation
+
+3. Laravel Blade @prepend Directive :
+https://laravel-news.com/blade-prepend
+
+4. Laravel Blade Components and Slots are coming to 5.4 :
+https://laravel-news.com/blade-components-slots
+
+5. Keeping the Creativity in Code :
+https://laravel-news.com/creativity-in-code
+
+6. Laravel Eloquent Relationships Through Macros :
+https://laravel-news.com/relationship-macros
+
+7. Laravel Collections “when” Method
+https://laravel-news.com/laravel-collections-when-method

@@ -10,3 +10,6 @@ https://laravel-news.com/new-book-laravel-up-and-running
 
 2. Build Custom Admin Panels With Backpack for Laravel:
 https://laravel-news.com/laravel-backpack
+
+3. Review: Refactoring to Collections
+https://laravel-news.com/review-refactoring-to-collections
